@@ -1,20 +1,36 @@
-.texto{
-
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
+:root{
+    background-color: #e8fbbb;
 }
-background-color:azul;
+.cabecalho{
+    width: 100%;
+}
+.botao{
+    color: #4d543d;
+    font-size: 24px;
+}
+.titulo{
+    color: #4d543d;
+    font-size: 32px;
+    font-family:Emblema One;
+    text-align: center;
+}
 .h2{
-    font-family: ;
-    font-size:28px ;
-    color:black;
+    font-family: Emblema One;
+    font-size: 28px;
+    color: #4d543d;
 }
 .texto-inicial{
     font-size: 24px;
-    color: black;
+    color: #4d543d;
 }
 .texto-fonte{
     font-size: 18px;
-    color: black;
+    color: #4d543d;
 }
 .foto{
     width: 33%;
+}
+.topicos{
+    text-decoration: none;
 }
